@@ -1,0 +1,12 @@
+C:\Users\milto\source\repos\BeerCoding\2nd_Beer_Coding\bin\Debug\netcoreapp3.1\2nd_Beer_Coding.exe
+C:\Users\milto\source\repos\BeerCoding\2nd_Beer_Coding\bin\Debug\netcoreapp3.1\2nd_Beer_Coding.deps.json
+C:\Users\milto\source\repos\BeerCoding\2nd_Beer_Coding\bin\Debug\netcoreapp3.1\2nd_Beer_Coding.runtimeconfig.json
+C:\Users\milto\source\repos\BeerCoding\2nd_Beer_Coding\bin\Debug\netcoreapp3.1\2nd_Beer_Coding.runtimeconfig.dev.json
+C:\Users\milto\source\repos\BeerCoding\2nd_Beer_Coding\bin\Debug\netcoreapp3.1\2nd_Beer_Coding.dll
+C:\Users\milto\source\repos\BeerCoding\2nd_Beer_Coding\bin\Debug\netcoreapp3.1\2nd_Beer_Coding.pdb
+C:\Users\milto\source\repos\BeerCoding\2nd_Beer_Coding\obj\Debug\netcoreapp3.1\2nd_Beer_Coding.AssemblyInfoInputs.cache
+C:\Users\milto\source\repos\BeerCoding\2nd_Beer_Coding\obj\Debug\netcoreapp3.1\2nd_Beer_Coding.AssemblyInfo.cs
+C:\Users\milto\source\repos\BeerCoding\2nd_Beer_Coding\obj\Debug\netcoreapp3.1\2nd_Beer_Coding.csproj.CoreCompileInputs.cache
+C:\Users\milto\source\repos\BeerCoding\2nd_Beer_Coding\obj\Debug\netcoreapp3.1\2nd_Beer_Coding.dll
+C:\Users\milto\source\repos\BeerCoding\2nd_Beer_Coding\obj\Debug\netcoreapp3.1\2nd_Beer_Coding.pdb
+C:\Users\milto\source\repos\BeerCoding\2nd_Beer_Coding\obj\Debug\netcoreapp3.1\2nd_Beer_Coding.genruntimeconfig.cache
