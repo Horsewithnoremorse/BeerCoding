@@ -10,3 +10,4 @@ C:\Users\milto\source\repos\BeerCoding\2nd_Beer_Coding\obj\Debug\netcoreapp3.1\2
 C:\Users\milto\source\repos\BeerCoding\2nd_Beer_Coding\obj\Debug\netcoreapp3.1\2nd_Beer_Coding.dll
 C:\Users\milto\source\repos\BeerCoding\2nd_Beer_Coding\obj\Debug\netcoreapp3.1\2nd_Beer_Coding.pdb
 C:\Users\milto\source\repos\BeerCoding\2nd_Beer_Coding\obj\Debug\netcoreapp3.1\2nd_Beer_Coding.genruntimeconfig.cache
+C:\Users\milto\source\repos\BeerCoding\2nd_Beer_Coding\obj\Debug\netcoreapp3.1\2nd_Beer_Coding.csprojAssemblyReference.cache
