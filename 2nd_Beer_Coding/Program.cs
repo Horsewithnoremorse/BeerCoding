@@ -85,7 +85,53 @@ namespace _2nd_Beer_Coding
                 Console.WriteLine("Не угадал");
             }
 
+            Console.WriteLine("Загадка 7. Не лёд, а тает, не лодка, а уплывает. Что это?");
+            Input = Console.ReadLine();
+            if (Input == "Зарплата" || Input == "зарплата")
+            {
+                Console.WriteLine("Правильно, теперь можешь немного поплакать.");
+                counter++;
+            }
+            else
+            {
+                Console.WriteLine("Не угадал");
+            }
 
+            Console.WriteLine("Загадка 8. Сколько программистов нужно, чтобы закрутить лампочку?");
+            Input = Console.ReadLine();
+            if (Input == "Ни одного" || Input == "ни одного")
+            {
+                Console.WriteLine("Правильно, это аппаратная проблема, программисты их не решают.");
+                counter++;
+            }
+            else
+            {
+                Console.WriteLine("Не угадал");
+            }
+
+            Console.WriteLine("Загадка 9. В каком слове «спрятался» напиток и природное явление?");
+            Input = Console.ReadLine();
+            if (Input == "Виноград" || Input == "виноград")
+            {
+                Console.WriteLine("Правильно");
+                counter++;
+            }
+            else
+            {
+                Console.WriteLine("Не угадал");
+            }
+
+            Console.WriteLine("Загадка 10. Какое пиво не стоит покупать на курсы?");
+            Input = Console.ReadLine();
+            if (Input == "Пшеничное" || Input == "пшеничное" || Input == "Пшеничу" || Input == "пшеничку")
+            {
+                Console.WriteLine("Правильно");
+                counter++;
+            }
+            else
+            {
+                Console.WriteLine("Не угадал");
+            }
 
             Console.WriteLine($"Вот и все загадки, а вот и твой результат {counter}/10.");
         }
